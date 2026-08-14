@@ -1,0 +1,2 @@
+# Reinforcement_Learning_An_Introduction-
+这个仓库主要用中文记录关于Reinforcement Learning An Introduction的学习笔记，希望以知识开源的方式为强化学习的中文学习者社区作出贡献
